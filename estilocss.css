@@ -1,0 +1,79 @@
+.margem {
+    margin: 40px;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+fieldset{
+    padding: 30px;
+    margin: 30px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    text-decoration: underline overline;
+    margin: 10px;
+    text-align: center;
+    
+}
+
+.teclas {
+    margin: 10px;
+    padding: 5px;
+    
+}
+
+.igual {
+    background-color: limegreen;
+
+}
+
+.op{
+    background-color: crimson;
+}
+
+.c {
+    background-color: cornflowerblue;
+}
+
+input {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    border-style: none;
+
+}
+
+.calculadora {
+    width: 380px;
+    height: 380px;
+    text-align: center;
+    border-radius: 2px;
+    border: 1px solid;
+    box-shadow: 1px 2px 1px 2px black;
+}
+
+.mostra{
+    border: 2px solid;
+    width: 350px;
+    border-radius: 20px;
+    margin-left: 13px;
+}
+
+.visor {
+    margin-top: 20px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    color: lightslategray;
+    text-align: center;
+    margin-top: 30px;
+}
