@@ -1,0 +1,47 @@
+* {
+    margin: 3;
+    padding: 3;
+}
+ body{
+	background: #ffffff;
+ }
+ 
+body, input, select, textarea, button {
+    font-family: arial;
+    font-size: 1em;
+}
+
+h3{
+	color: #3366FF;
+	text-align: center;
+	font-family: arial;
+	font-size: 2em;
+}
+h1{
+	font-size:1em;
+	font-family: arial;
+}
+
+ 
+.campo {
+    margin-bottom: 1em;
+}
+ 
+.campo label {
+    margin-bottom: 0.2em;
+    color: black;
+    display: block;
+}
+
+ .botao {
+	padding: 4px 11px;
+	border: 1px solid #3366FF;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 8px;
+	
+}
+.botao a:hover {
+	background:#ff0; 
+	color:#f00;
+	}
