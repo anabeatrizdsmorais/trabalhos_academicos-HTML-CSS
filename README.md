@@ -4,7 +4,7 @@
 
 
 
-<p><h3><strong>💡 Descrição:</strong></h3> Além dos exercicios, há um projeto de desenvolvimento web de "reconstrução" do site do Cest.</p>
+<p><h3>💡 Descrição:</h3> Além dos exercicios, há um projeto de desenvolvimento web de "reconstrução" do site do Cest.</p>
 
 <h3>💻 Tecnologias utilizadas no desenvolvimento front end do 'Site Cest':</h3>
 <ul><li>🛠️ HTML</li>
